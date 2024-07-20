@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 """
-Based on pg.examples.stars from Pygame
+Based on pg.examples.stars from Pygame.
+
+Minimal PoC for a drawing canvas using the Pygame event loop. Install pygame
+with pip install pygame and then run this file from a shell.
 """
 import random
 import math
